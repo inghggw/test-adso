@@ -1,5 +1,9 @@
-# Mi primer repositorio Giovanny Gonzalez
+## Taller Git Giovanny Gonzalez
 
-**Este es mi primer repositorio en el ADSO**
+**Taller:**
 
-Copyrigth 2024.
+1. Cada uno crear tres repositorios abiertos.
+2. Minimo 10 commits en cada repositorio.
+3. Minimo 5 archivos diferentes en cada repositorios.
+
+Éxitos!
